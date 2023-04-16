@@ -29,7 +29,7 @@ V2 de mi primer intento de un sistema de gestion para bibliotecas
             <p>app.listen(4000);</p>
             <p>console.log("server on port 4000");</p>
     </li>
-    <li>Corremos el servidor: <em>npm run start</em><li>
+    <li>Corremos el servidor: <em>npm run start</em></li>
     <li>Creamos carpeta db para inicializar las bases de datos:
         <ol>
             <li>Nos conectamos a postgres por una terminal independiente <em>sudo -u postgres psql</em></li>
@@ -45,5 +45,4 @@ V2 de mi primer intento de un sistema de gestion para bibliotecas
             </li>
         </ol>
     </li>
-    <li>hola</li>
 </ol>
