@@ -1,1 +1,3 @@
-Arregar el Readme
+Agregar JWT
+Cual es la diferencia entre "id INT PRIMARY KEY," y "id SERIAL PRIMARY KEY,"
+Como puedo encriptar las contraseñas a la hora de crear un nuevo usuario?
